@@ -1,2 +1,2 @@
-# Btech_G2J_Gaurang-Agarwal_32
+# Btech_G2J_GaurangAgarwal_32
 C Programs
